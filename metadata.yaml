@@ -13,6 +13,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/1154
     wikipedia: http://en.wikipedia.org/wiki/Edward_Samuel_Corwin
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/18637#The-Constitution-of-the-United-States-of-America--Analysis-and-InterpretationAnnotations-of-C_
 gutenberg_bookshelf:
 - United States
 - United States Law
